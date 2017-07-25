@@ -1,0 +1,14 @@
+python-agate-dbf (0.2.0-2) unstable; urgency=medium
+
+  * Bump standards version to 4.0.0, no changes required
+  * Build the docs using the upstream Makefile
+  * Mark doc package multiarch foreign
+  * Release to unstable
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Tue, 25 Jul 2017 10:56:45 +0100
+
+python-agate-dbf (0.2.0-1) experimental; urgency=low
+
+  * Initial release. (Closes: #850450)
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Wed, 22 Mar 2017 10:43:49 +0000
